@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aaron!
 
 - 😄 Pronouns: `he/him`
-- ⏰ Time Zone: Pacific
+- ⏰ Time Zone: Pacific (and not really a morning person)
 - 🌉 City: PDX
 - 🦥 Hammocks: Yes, please!
 
