@@ -1,4 +1,4 @@
-👋 Hi, I'm Aaron!
+# 👋 Hi, I'm Aaron
 
 - 😄 Pronouns: `he/him`
 - ⏰ Time Zone: Pacific (and not really a morning person)
@@ -19,4 +19,3 @@ Things I'm interested in / actively learning:
 - 🎹 Piano (currently using Lumikeys and its lessons to learn little by little)
 - 💎 Getting deeper with Ruby/Rails
 - 🧑🏻‍🤝‍🧑🏾 Incorporating antiracist practices into my life
-
